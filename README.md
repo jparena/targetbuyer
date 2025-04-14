@@ -1,0 +1,5 @@
+- Monitors a product using its URL
+- Auto adds to cart when in stock
+- Verifies price before proceeding
+- Navigates through both **checkout** steps
+- Logs successful triggers
